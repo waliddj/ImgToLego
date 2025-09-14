@@ -1,4 +1,4 @@
-![IMG_0178 600x600 px](https://github.com/user-attachments/assets/a4db83a8-9b05-432e-b24a-33a2e0bedefc)# ImgToLego
+# ImgToLego
 🧱 Image to Lego Mosaic Generator
 A tool that converts your images into Lego mosaic designs.
 
@@ -33,7 +33,9 @@ Save the output image.
 Input: You provide an image file (e.g., JPG, PNG).
 Output: a Lego-like image.
 
+
 Example:
+
 Input image: ![IMG_0178 600x600 px](https://github.com/user-attachments/assets/14a2380a-2741-4260-9344-b842fbfc4744)
 
 Output image: ![lego_mosaic_output_Walid](https://github.com/user-attachments/assets/7bd53da4-e512-4592-add2-d299b511aa44)
