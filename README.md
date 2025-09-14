@@ -40,3 +40,8 @@ Input image: ![IMG_0178 600x600 px](https://github.com/user-attachments/assets/1
 
 Output image: ![lego_mosaic_output_Walid](https://github.com/user-attachments/assets/7bd53da4-e512-4592-add2-d299b511aa44)
 
+
+NOTE:
+
+You can control the image resolution by modifying the size of the blocks.
+
